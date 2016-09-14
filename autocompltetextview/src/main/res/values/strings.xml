@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoComplteTextView</string>
+    <string-array name="fruitsNames">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Litchi</item>
+        <item>Mango</item>
+        <item>PineApple</item>
+
+    </string-array>
+</resources>

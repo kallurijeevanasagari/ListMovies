@@ -1,0 +1,1 @@
+include ':app', ':insert', ':autocompltetextview', ':listmovies', ':servicetask'

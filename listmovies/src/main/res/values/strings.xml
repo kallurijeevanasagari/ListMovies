@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListMovies</string>
+    <string-array name="Movies">
+        <item>24</item>
+        <item>Bahubali</item>
+        <item>Srimanthudu</item>
+        <item>Nenu Sailaja</item>
+        <item>Sulthan</item>
+    </string-array>
+</resources>

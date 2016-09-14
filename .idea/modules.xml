@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentInsert.iml" filepath="$PROJECT_DIR$/StudentInsert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompltetextview/autocompltetextview.iml" filepath="$PROJECT_DIR$/autocompltetextview/autocompltetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insert/insert.iml" filepath="$PROJECT_DIR$/insert/insert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listmovies/listmovies.iml" filepath="$PROJECT_DIR$/listmovies/listmovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicetask/servicetask.iml" filepath="$PROJECT_DIR$/servicetask/servicetask.iml" />
+    </modules>
+  </component>
+</project>
